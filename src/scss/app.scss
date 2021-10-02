@@ -27,3 +27,7 @@ html {
   font-size: 10rem;
   flex-flow: column;
 }
+.body {
+  background: $body-color;
+  text-color: $text-color;
+}
